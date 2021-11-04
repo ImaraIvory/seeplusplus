@@ -1,0 +1,25 @@
+/*
+(Data Type) (Name) (Value)
+Data types: 
+    Integers-
+        Char
+        Unsigned Char >=0
+        Short
+        Unsigned Short >=0
+        Int
+        Unsigned Int >=0
+        Long
+        Unsigned Long >=0
+        Long Long
+        Unsigned Long Long >=0
+    Decimal Data Types-
+        Float
+        Decimal?
+    Strings- (Standard Library)
+        std::string "String" 
+
+Name = *
+Value = Amount (number)
+*/
+
+
